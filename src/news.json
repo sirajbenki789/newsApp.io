@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Milwaukee Journal Sentinel"
+            },
+            "author": "Milwaukee Journal Sentinel",
+            "title": "House passes expanded child tax credit with Gwen Moore in opposition - Milwaukee Journal Sentinel",
+            "description": null,
+            "url": "https://www.jsonline.com/story/news/politics/2024/02/01/house-passes-expanded-child-tax-credit-with-gwen-moore-in-opposition/72423204007/",
+            "urlToImage": null,
+            "publishedAt": "2024-02-02T10:27:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Huge gas explosion and fire kills at least 3, injures hundreds in Kenyan capital - CNN",
+            "description": "A gas explosion in Kenya’s capital on Thursday night killed at least three people and injured 280 others, according to authorities in the East African country.",
+            "url": "https://www.cnn.com/2024/02/02/africa/kenya-nairobi-gas-explosion-fire-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1971231835.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-02-02T10:15:00Z",
+            "content": "A gas explosion at an unlicensed cooking gas filling plant in Kenyas capital on Thursday night killed at least three people and injured 280 others, according to authorities in the East African countr… [+1933 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Laura He",
+            "title": "Missing Chinese banker resigns from China Renaissance for ‘health reasons’ a year after disappearing - CNN",
+            "description": "Bao Fan, a star Chinese tech banker who disappeared a year ago amid Beijing’s anti-corruption crackdown, has formally resigned from the firm he founded, the company said.",
+            "url": "https://www.cnn.com/2024/02/02/business/china-missing-banker-bao-fan-resigns-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230403145804-fan-bao-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-02-02T08:08:00Z",
+            "content": "Editors Note: Sign up for CNNs Meanwhile in China newsletter, which explores what you need to know about the countrys rise and how it impacts the world.\r\nBao Fan, a star Chinese tech banker who disap… [+2670 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters.com",
+            "title": "'I went to the wall', Hungary's Orban says after agreeing to EU deal - Reuters.com",
+            "description": null,
+            "url": "https://www.reuters.com/world/europe/i-went-wall-hungarys-orban-says-after-agreeing-eu-deal-2024-02-02/",
+            "urlToImage": null,
+            "publishedAt": "2024-02-02T08:02:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Erin Hale",
+            "title": "Meta, Amazon smash earnings expectations, as stock markets surge - Al Jazeera English",
+            "description": "Asian markets rally after US tech giants post stronger-than-expected financial results.",
+            "url": "https://www.aljazeera.com/economy/2024/2/2/meta-amazon-smash-earnings-expectations-as-stock-markets-surge",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/02/AP22272699929841-1706847532.jpg?resize=1920%2C1371",
+            "publishedAt": "2024-02-02T06:26:35Z",
+            "content": "Asian markets have rallied after the release of stronger-than-expected earnings results by Meta and Amazon sent the tech giants share prices surging.\r\nIn Hong Kong, where stocks have slumped on weak … [+2283 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MLB Trade Rumors"
+            },
+            "author": "Anthony Franco",
+            "title": "Orioles Acquire Corbin Burnes - MLB Trade Rumors",
+            "description": "The Orioles got their ace. Baltimore announced the acquisition of 2021 NL Cy Young winner Corbin Burnes from the Brewers &hellip;",
+            "url": "https://www.mlbtraderumors.com/2024/02/orioles-nearing-deal-for-corbin-burnes.html",
+            "urlToImage": "https://cdn.mlbtraderumors.com/files/2023/12/corbin-burnes-milwaukee-brewers-1024x683.jpg",
+            "publishedAt": "2024-02-02T05:02:10Z",
+            "content": "The Orioles got their ace. Baltimore announced the acquisition of 2021 NL Cy Young winner Corbin Burnes from the Brewers for rookie infielder Joey Ortiz, left-hander DL Hall, and their 2024 Competiti… [+12001 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Ex-CIA computer engineer gets 40 years in prison for giving spy agency hacking secrets to WikiLeaks - POLITICO",
+            "description": "The bulk of the sentence imposed on Joshua Schulte in Manhattan federal court came for an embarrassing public release of a trove of CIA secrets by WikiLeaks in 2017.",
+            "url": "https://www.politico.com/news/2024/02/01/ex-cia-computer-engineer-sentenced-wikileaks-00139260",
+            "urlToImage": "https://static.politico.com/28/e9/352261db4e42812d04ddc1ccc2de/https-delivery-gettyimages.com/downloads/51044440",
+            "publishedAt": "2024-02-02T03:51:25Z",
+            "content": "The so-called \r\nVault 7 leak revealed how the CIA hacked Apple and Android smartphones in overseas spying operations, and efforts to turn internet-connected televisions into listening devices. Prior … [+3412 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WRAL.com"
+            },
+            "author": "Jelia Hepner",
+            "title": "Alarming surge: Congenital Syphilis cases skyrocket by double digits annually since 2018 - WRAL News",
+            "description": "The cases of congenital syphilis, wherein a mother transmits the infection to her baby during pregnancy, have been steadily rising by double-digit percentages annually since 2018, according to preliminary data provided to WRAL News by state health officials.",
+            "url": "https://www.wral.com/story/alarming-surge-congenital-syphilis-cases-skyrocket-by-double-digits-annually-since-2018/21264197/",
+            "urlToImage": "https://wwwcache.wral.com/asset/news/local/wral_investigates/2023/04/03/20794971/screenshot_-_2023-04-03T192537.326-DMID1-5ygephz98-640x480.jpg",
+            "publishedAt": "2024-02-02T03:45:23Z",
+            "content": "The cases of congenital syphilis, wherein a mother transmits the infection to her baby during pregnancy, have been steadily rising by double-digit percentages annually since 2018, according to prelim… [+1195 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Mike Florio",
+            "title": "Jim Harbaugh targets \"multiple, multiple championships\" with Chargers - NBC Sports",
+            "description": "The lure of a Lombardi Trophy brought Jim Harbaugh back to the NFL.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jim-harbaugh-targets-multiple-multiple-championships-with-chargers",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/8232f77/2147483647/strip/true/crop/8001x4501+0+417/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2e%2F88%2F6cfe45a341e4920cad85a3c673b7%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D22423273",
+            "publishedAt": "2024-02-02T03:23:43Z",
+            "content": "The lure of a Lombardi Trophy brought Jim Harbaugh back to the NFL. And he wants more than one of them.\r\nIt needs to be multiple, multiple championships, Harbaugh told reporters on Thursday, via Kris… [+1055 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jason Owens",
+            "title": "Lakers stun Celtics with 3rd home defeat as LeBron James, Anthony Davis watch from bench - Yahoo Sports",
+            "description": "Davis and James were both scratches for the showdown with the rival Celtics.",
+            "url": "https://sports.yahoo.com/lakers-stun-celtics-with-3rd-home-defeat-as-lebron-james-anthony-davis-watch-from-bench-030013744.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ElH_2aATP1fVf1xoYuOD8g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/571b9070-c176-11ee-9ffe-af174e118026",
+            "publishedAt": "2024-02-02T03:19:00Z",
+            "content": "The pregame injury report on Thursday did not favor the Los Angeles Lakers.\r\nBut with All-Stars LeBron James and Anthony Davis both sidelined for a showdown with the Celtics, Lakers role players deli… [+2665 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Ambar Warrick",
+            "title": "Asian stocks rise tracking Wall St tech rally; Nonfarm payrolls awaited By Investing.com - Investing.com",
+            "description": "Asian stocks rise tracking Wall St tech rally; Nonfarm payrolls awaited",
+            "url": "https://www.investing.com/news/stock-market-news/asian-stocks-rise-tracking-wall-st-tech-rally-nonfarm-payrolls-awaited-3290704",
+            "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPED220BB_L.jpg",
+            "publishedAt": "2024-02-02T03:10:00Z",
+            "content": "Investing.com-- Most Asian stocks rose on Friday, with technology-heavy indexes leading gains after strength in their U.S. counterparts spurred record-high closes on Wall Street.\r\nBut bigger gains we… [+3459 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Sarah Rumpf-Whitten, Christina Coulter",
+            "title": "Toxicology report back for Kansas City Chiefs fans found frozen to death - Yahoo News",
+            "description": "Police in Kansas City have received the toxicology report of the three men who were found dead in the snow following their game day gathering.",
+            "url": "https://news.yahoo.com/toxicology-report-back-kansas-city-005345815.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vKUv_K501iZ1iUC2XLqbuw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/fox_news_text_979/ccba46dd8beb9e6e518210419e4828dd",
+            "publishedAt": "2024-02-02T03:04:00Z",
+            "content": "A family member confirmed to Fox News Digital that preliminary toxicology results have been released for the three Kansas City men who were found dead in the snow two days after a game day gathering.… [+2610 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Tresa Baldas, Gina Kaufman",
+            "title": "Jennifer Crumbley tells jury: 'I wish he would have killed us instead' - USA TODAY",
+            "description": "Jennifer Crumbley believed her job as a parent was to protect her son from harm not to protect others from him. Ethan Crumbley killed four at school.",
+            "url": "https://www.usatoday.com/story/news/nation/2024/02/01/jennifer-crumbley-testimony-humanize-son-school-shooter/72444809007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/02/02/PDTF/72443915007-main-crumbley-020124-19-mw.JPG?crop=2399,1350,x0,y172&width=2399&height=1350&format=pjpg&auto=webp",
+            "publishedAt": "2024-02-02T02:57:50Z",
+            "content": "Jennifer Crumbley believed that her job as a parent was to protect her son from harm not having to protect others from him.\r\nFor the first time, the mother of Oxford High School mass shooter Ethan Cr… [+14097 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Bradford Betz",
+            "title": "Daniel Penny lawyer blasts release of migrants who attacked NYPD officers without bail: ‘very confounding’ - Fox News",
+            "description": "The lawyer for Daniel Penny has questioned to release of migrants without bail after they were charged with attacking NYPD officers near Times Square last weekend.",
+            "url": "https://www.foxnews.com/us/daniel-penny-lawyer-blasts-release-migrants-who-attacked-nypd-officers-without-bail-very-confounding",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/perrysplit.jpg",
+            "publishedAt": "2024-02-02T02:41:00Z",
+            "content": "The lawyer for U.S. Marine veteran Daniel Penny is slamming the decision to release migrants without bail after they were charged with attacking a pair of NYPD officers near Times Square over the wee… [+4152 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "JOHN ANTCZAK",
+            "title": "Atmospheric rivers bring heavy rains and flooding to Southern California - The Associated Press",
+            "description": "The first of back-to-back atmospheric rivers is drenching California. Heavy rain and gusty winds began hitting the state's north on Wednesday before moving south along the coast and snarling the Thursday morning commute in Los Angeles. The storm has flooded r…",
+            "url": "https://apnews.com/article/california-west-coast-storms-atmospheric-rivers-164f0e0b6faa189bc09f5326fd6270e9",
+            "urlToImage": "https://dims.apnews.com/dims4/default/7bbee7a/2147483647/strip/true/crop/4500x2531+0+234/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd7%2Fda%2Fe7c452eca8587f856bf64d616fe2%2Fc7d06bce22b449d0af0ae900dc33e806",
+            "publishedAt": "2024-02-02T02:32:00Z",
+            "content": "LOS ANGELES (AP) Heavy rain flooded California roadways and much-needed snow piled up in the mountains as the first of back-to-back atmospheric rivers pummeled the state Thursday.\r\nThe storm focused … [+5969 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Guardian",
+            "title": "Ukraine thought to have sunk Russian warship near occupied Crimea - The Guardian",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC8yMDI0L2ZlYi8wMS91a3JhaW5lLXNlYS1kcm9uZS1oaXRzLXJ1c3NpYW4td2Fyc2hpcC1uZWFyLW9jY3VwaWVkLWNyaW1lYdIBaWh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS93b3JsZC8yMDI0L2ZlYi8wMS91a3JhaW5lLXNlYS1kcm9uZS1oaXRzLXJ1c3NpYW4td2Fyc2hpcC1uZWFyLW9jY3VwaWVkLWNyaW1lYQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-02-02T02:31:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Joe Vardon",
+            "title": "Joel Embiid suffered meniscus injury in left knee, 76ers say - The Athletic",
+            "description": "The team had already announced that Embiid would miss Thursday's game against the Utah Jazz.",
+            "url": "https://theathletic.com/5245779/2024/02/01/joel-embiid-meniscus-injury-76ers/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2024/01/31071336/Embiid13124-scaled.jpg",
+            "publishedAt": "2024-02-02T01:50:48Z",
+            "content": "Reigning MVP Joel Embiid suffered a lateral meniscus injury on his left knee and will be out at least through the weekend, the Philadelphia 76ers announced Thursday, placing the defense of his lofty … [+2351 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "AFP",
+            "title": "WHO Warns Cancer Cases Will Jump 77% by 2050. Here's Why. - ScienceAlert",
+            "description": "The number of new cancer cases will rise to more than 35 million in 2050 – 77 percent higher than the figure in 2022, the World Health Organization's cancer agency warned Thursday.",
+            "url": "https://www.sciencealert.com/who-warns-cancer-cases-will-jump-77-by-2050-heres-why",
+            "urlToImage": "https://www.sciencealert.com/images/2022/09/MicrographOfCancer.jpg",
+            "publishedAt": "2024-02-01T23:43:34Z",
+            "content": "The number of new cancer cases will rise to more than 35 million in 2050 77 percent higher than the figure in 2022, the World Health Organization's cancer agency warned Thursday.\r\nThe WHO's Internati… [+1502 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Recording Academy | Grammys"
+            },
+            "author": null,
+            "title": "Read The 2024 GRAMMYs Program Book Front To Back: All The Inspired Nominees, Trustees Awardees & More - The GRAMMYs",
+            "description": "The 2024 GRAMMYs program book is the ultimate printed guide to Music's Biggest Night. Below, you can read it in digital form.",
+            "url": "https://grammy.com/news/2024-program-book-read-digitally",
+            "urlToImage": "https://i8.amplience.net/i/naras/2024-grammys-new-categories-announced-hero-green-purple-1200x675_3",
+            "publishedAt": "2024-02-01T23:01:00Z",
+            "content": "Troye Sivan didn't tell anyone about his alarm. But at 3 a.m. on Nov. 10, the pop star woke up to not just his alarm, but to dozens of notifications  he woke up a GRAMMY nominee.\r\n\"Normally with acco… [+14655 chars]"
+        }
+    ]
+}
