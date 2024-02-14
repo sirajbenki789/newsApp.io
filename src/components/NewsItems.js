@@ -14,59 +14,43 @@ export default class NewsItems extends Component {
     console.log(this.state.page);
   }
 
+async updateNews(){
+  const url=`https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=b6fd201486d14a649d6ac4a1e12de6eb&page=${this.state.page}&pageSize=${this.props.pageSize}`;
+  this.setState({loading:true})
+  let data=await fetch(url)
+  let parseData = await data.json();
+  this.setState({loading:false})
+  console.log(parseData);
+  this.setState({articles:parseData.articles,
+    totalResults:parseData.totalResults,
+  })
+}
   async componentDidMount(){
-    let url=`https://newsapi.org/v2/top-headlines?country=in&apiKey=b6fd201486d14a649d6ac4a1e12de6eb&page=${this.state.page}&pageSize=${this.props.pageSize}`;
-    this.setState({loading:true})
-    let data=await fetch(url)
-    let parseData = await data.json();
-    this.setState({loading:false})
-    console.log(parseData);
-    this.setState({articles:parseData.articles,
-      totalResults:parseData.totalResults,
-    })
-
+    this.updateNews();
   }
   handlePreClick=async()=>{
-    console.log("previous");
-    let url=`https://newsapi.org/v2/top-headlines?country=in&apiKey=b6fd201486d14a649d6ac4a1e12de6eb&page=${this.state.page -1}&pageSize=${this.props.pageSize}`;
-    this.setState({loading:true,})
-    let data=await fetch(url)
-    let parseData = await data.json();
-    this.setState({loading:false,})
-    console.log(parseData);
-    this.setState({articles:parseData.articles})
     this.setState({ page: this.state.page - 1,})
-    console.log(this.state.page);
+    this.updateNews();
   }
   handlenextClick=async()=>{
     if(this.state.page + 1 > Math.ceil(this.state.totalResults/5)){
 
     }else{
-      let url=`https://newsapi.org/v2/top-headlines?country=in&apiKey=b6fd201486d14a649d6ac4a1e12de6eb&page=${this.state.page +1 }&pageSize=${this.props.pageSize}`;
-    this.setState({loading:true,})
-      let data=await fetch(url)
-      let parseData = await data.json();
-    this.setState({loading:false,})
-      console.log(parseData);
-      this.setState({articles:parseData.articles})
-      console.log("next");
       this.setState({ page: this.state.page + 1,})
-      console.log(this.state.page);
+    this.updateNews();
     }
 }
   
   render(){
     return (
       <div className='container'>
-        <h1 className='my-4'>This is top 10 News</h1>
+        <h1 className='my-4'>This is top 10 News About {this.props.category}</h1>
           {this.state.loading?<Loading/>:''}
         <div className="row">
           {this.state.articles.map((element)=>{
-            // let e = element.description;
-            // console.log(typeof(e));
             return <div className="col-md-4" key={element.url}>
-              <News title={element.title?element.title.slice(0, 45):""} description={element.description?element.description.slice(0, 80):""} imageUrl={!element.urlToImage?'':element.urlToImage} readmore={element.url?element.url:""}/>
-              
+              <News title={element.title?element.title.slice(0, 45):""} description={element.description?element.description.slice(0, 80):""} imageUrl={!element.urlToImage?'':element.urlToImage} readmore={element.url?element.url:""}
+              date={element.publishedAt} author={element.author} source={element.source.name}/>
               </div>
           })}
           </div>
